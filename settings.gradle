@@ -1,0 +1,8 @@
+rootProject.name = 'JavaAttaOne'
+include 'writeInJson'
+include 'readFromJson'
+include 'Main'
+include 'task'
+include 'task'
+include 'task'
+
